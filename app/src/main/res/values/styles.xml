@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Perso" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF018786</item>
+    </style>
+</resources>
